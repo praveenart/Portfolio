@@ -1,0 +1,114 @@
+body{
+    background-color: #21d488;
+}
+.main{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    background-color: #21d488;
+}
+.main1{
+    justify-content: center;
+    margin-top: 100px;
+    margin-left: 50px;
+    width: 50%;
+    font-size: 37px;
+    /* margin-bottom: 37px; */
+}
+.main2{
+    margin-top: 8%;
+    margin-left: 100px;
+}
+.link{
+    display: flex;
+    /* justify-content: space-between; */
+    gap: 20px;
+}
+
+.do{
+    display: flex;
+    background-color: #21d488;
+    font-size: 37px;
+    height: 100%;
+    width: 100%;
+   
+}
+.icon{
+    height: 50px;
+    width: 50px;
+}
+.do1{
+    margin-top: 250px;
+    width: 60%;
+}
+.do2{
+    margin-bottom: 100px;
+    margin-top: 200px;
+}
+.dox{
+    font-weight: 100;
+}
+hr{
+    height: 10px;
+    width: 100%;
+    background-color: rgb(26, 190, 48);
+    border-radius: 15px;
+
+}
+.line{
+    margin-left: 50px;
+    font-size: 37px;
+    
+}
+#python{
+    margin-right: 10%;
+}
+#cc{
+    margin-right: 30%;
+}
+#fd{
+    margin-right: 10%;
+}
+#bd{
+    margin-right: 25%;
+}
+
+.edu{
+    margin-top: 150px;
+    margin-left: 50px;
+    font-size: 37px;
+}
+.edu1{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    /* background-color: black; */
+    margin-top: -20px;
+}
+.foot{
+    font-size: 37px;
+    display: flex;
+    margin-left: 50px;
+    margin-top: 300px;
+}
+.foot1{
+    width: 60%;
+}
+.loc{
+    display: flex;
+    gap: 5px;
+}
+.loc h6{
+    /* margin-bottom: 50px; */
+    
+    margin-top: 10px;
+}
+.praveen{
+    height: 650px;
+    width: 500px;
+    margin-left: 80px;
+    border-radius: 30%;
+}
+center{
+    font-size: 37px;
+}
